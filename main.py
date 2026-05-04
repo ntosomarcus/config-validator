@@ -43,7 +43,7 @@ for dup in duplicates:
 
 #prints out the results
 if not errors:
-    print("Config is valid ✅")
+    print("Config is valid ")
 else:
     print("Errors found:")
     for error in errors:
